@@ -24,5 +24,8 @@
   "homepage": "https://github.com/captivationsoftware/react-global",
   "peerDependencies": {
     "react": "0.x"
+  },
+  "dependecies" : {
+    "serialize-javascript": "1.0.0"
   }
 }
